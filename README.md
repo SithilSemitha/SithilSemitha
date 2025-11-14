@@ -23,8 +23,8 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">My Statistics </h3>
+<br>
 
-[![Sithil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SithilSemitha&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Sithil's github stats](https://github-readme-stats.vercel.app/api?username=SithilSemitha&show_icons=true&theme=tokyonight) | ![Sithils GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SithilSemitha&theme=tokyonight) |
 | --- | --- |
