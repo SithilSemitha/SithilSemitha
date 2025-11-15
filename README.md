@@ -21,16 +21,45 @@
 
 - ⚡ Fun fact **Call me as Semitha ;)**
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<h3 align="center">My Statistics </h3>
-<br>
+<h3 align="center">📊 My GitHub Statistics</h3>
+<br/>
+
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <!-- Streak Stats -->
+  <img 
+    title="🔥 GitHub Streak Stats" 
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SithilSemitha&theme=blueberry&hide_border=false" 
+  /> 
 
 
-| ![Sithil's github stats](https://github-readme-stats.vercel.app/api?username=SithilSemitha&show_icons=true&theme=tokyonight) | ![Sithils GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SithilSemitha&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SithilSemitha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SithilSemitha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+  <!-- GitHub Stats -->
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sithilsemitha&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+</p>
 
-<br>
+
+
+</td>
+
+<td width="50%" align="center">
+
+  <!-- Top Languages -->
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithilSemitha&theme=blue_navy&hide_border=false&no-bg=true&no-frame=true&langs_count=7" 
+  />
+
+</td>
+</tr>
+</table>
+<br/>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -81,11 +110,6 @@
   <img src="https://cdn.simpleicons.org/chart.js/FF6384" alt="Chart.js" width="40" height="40"/>
 </p>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithilsemitha&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
-</p>
-
 
 ---
 
