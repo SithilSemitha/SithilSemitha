@@ -119,3 +119,5 @@
 
 ---
 
+<h2>📖 | More About me</h2> 
+🌐 As a second-year Computer Science student, I’m focused on building a strong foundation in both software development and problem-solving. I’m continuously sharpening my skills across frontend, backend, and full-stack technologies while exploring real-world applications through hands-on projects. I’m passionate about writing clean, efficient code and developing solutions that are both impactful and user-friendly. With a growing interest in innovation and continuous learning, I’m committed to improving my craft and becoming a well-rounded software engineer.
