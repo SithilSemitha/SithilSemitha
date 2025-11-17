@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sithil Semitha</h1>
 <h3 align="center">Aspiring Software Engineer | Full-Stack Developer | R&D Engineer </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sithilsemitha&label=Profile%20views&color=0e75b6&style=flat" alt="sithilsemitha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandisarandeni&label=Profile%20views&color=0e75b6&style=flat" alt="sithilsemitha" /> </p>
 
 
 
