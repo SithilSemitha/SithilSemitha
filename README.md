@@ -37,14 +37,14 @@
   <img 
     title="🔥 GitHub Streak Stats" 
     alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sithilsemitha&theme=blueberry&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SithilSemitha&theme=blueberry&hide_border=false" 
   /> 
 
 
   <!-- GitHub Stats -->
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sithilsemitha&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SithilSemitha&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
 
 
