@@ -37,7 +37,7 @@
   <img 
     title="🔥 GitHub Streak Stats" 
     alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SithilSemitha&theme=blueberry&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sithilsemitha&theme=blueberry&hide_border=false" 
   /> 
 
 
