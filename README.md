@@ -3,6 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sithil Semitha</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=const+Semitha+%3D+()+%3D%3E+%7B;++++role%3A+%22Aspiring+Software+Engineer%22%2C;++++stack%3A+%22Full-Stack+%26+IoT%22%2C;++++mindset%3A+%22Always+Learning%22%2C;++++focus%3A+%22Real-World+Solutions%22;++++return+%22Build.+Learn.+Innovate.%22;;%7D" alt="Typing SVG" />
+</p>
+
 <h3 align="center">
   Aspiring Software Engineer | Full-Stack Developer | R&D Enthusiast
 </h3>
@@ -19,6 +24,10 @@
 💻 I enjoy working across **frontend, backend, and IoT systems**, combining clean code with practical problem-solving.  
 🧠 Curious learner with a strong interest in **Full-Stack Development, System Design, and R&D projects**.  
 🌱 Actively preparing for **Software Engineering Internships** where I can learn, contribute, and grow.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" />
+</p>
 
 ---
 
@@ -78,7 +87,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithilsemithad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithil-semitha/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/94719407357)
@@ -86,6 +95,7 @@
 
 </div>
 
+---
 
 ## ⚡ Fun Fact
 > You can call me **Semitha** 😄  
