@@ -75,24 +75,17 @@
 
 ---
 
-## 🤝 Let’s Connect
+## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/sithil-semitha-b668b0228" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://fb.com/sithildesilva" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/semithaaaaa" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-</p>
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithilsemithad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithil-semitha/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/94719407357)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sithilsemitha)
 
-📫 **Email:** `sithilsemithad@gmail.com`  
-📄 **LinkedIn:** [View My Profile](https://www.linkedin.com/in/sithil-semitha-b668b0228/)
+</div>
 
----
 
 ## ⚡ Fun Fact
 > You can call me **Semitha** 😄  
