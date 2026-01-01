@@ -51,14 +51,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SithilSemitha&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SithilSemitha&show_icons=true&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SithilSemitha&bg_color=0d1117&color=ffffff&line=ffa500&point=00ff00&hide_border=true" />
 </p>
 
